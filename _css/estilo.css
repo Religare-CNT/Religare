@@ -40,7 +40,7 @@ header#cabecalho img#icone {
 header#cabecalho {
     border-bottom: 3px #606060 solid;
     height: 150px;
-    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+    background: url("../_imagens/religare-logo.jpg") no-repeat 0px 80px;
 }
 header#cabecalho h1{
     font-family: 'FonteLogo';
@@ -160,45 +160,7 @@ header#cabecalho-artigo h3 {
     font-size: 12px;
     color: #606060;
 }
-/*Tabela*/ 
-table#tabelaspec {
-    border: 1px solid #606060;
-    border-spacing: 0px;
-    margin-left: auto;
-    margin-right: auto;
-}
 
-table#tabelaspec td {
-    border: 1px solid #606060;
-    padding: 10px;
-    text-align: center;
-    vertical-align: middle;
-}
-
-table#tabelaspec td.ce {
-    color: #ffffff;
-    background-color: #606060;
-    vertical-align: top;
-    font-weight: bold;
-}
-
-table#tabelaspec td.cd {
-    background-color: #cecece;
-}
-
-table#tabelaspec caption {
-    color: #888888;
-    font-size: 10pt;
-    font-weight: bolder;
-}
-
-table#tabelaspec caption span {
-    display: block;
-    float: right;
-    color: #000000;
-    font-size: 8pt;
-    margin-top: 10px;
-}
 /**/
 
 aside#lateral {
